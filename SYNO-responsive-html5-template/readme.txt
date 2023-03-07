@@ -1,4 +1,8 @@
-UNIQUE – is a modern, elegant and clean one page html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and startup company.
+A website provided and changed according to the owner's taste!
+
+
+
+UNIQUE â€“ is a modern, elegant and clean one page html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and startup company.
 
 Key features
 -------------
