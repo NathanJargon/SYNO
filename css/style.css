@@ -144,7 +144,7 @@ p {
 
 .navStyle ul li {
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 20px;
 }
 
 .navStyle ul li:first-child {
@@ -639,7 +639,7 @@ img {
 }
 
 .page_section.team {
-    padding: 10px 0;
+    padding: 30px 0;
 }
 
 .page_section.team h6 {
