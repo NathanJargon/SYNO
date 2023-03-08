@@ -232,6 +232,10 @@ p {
     bottom: 0px;
 }
 
+.imgMove{
+    bottom: 30px;
+}
+
 .top_left_cont {
     padding: 50px 0;
 }
