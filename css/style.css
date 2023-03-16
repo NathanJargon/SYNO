@@ -697,13 +697,6 @@ img {
     margin: 0 auto;
 }
 
-.smartdustbin {
-    height: auto; 
-    width: auto; 
-    max-width: 228px; 
-    max-height: 600px;
-}
-
 .team_box ul {
     display: block;
     opacity: 0;
