@@ -99,6 +99,7 @@ p {
 .logo {
     float: left;
     margin-top: 4px;
+	margin-bottom: 6px;
 	position: relative;
 	z-index: 2;
 }
