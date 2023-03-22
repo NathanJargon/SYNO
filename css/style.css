@@ -11,6 +11,10 @@ ul {
     margin: 0px;
 }
 
+.font-style {
+    font-size: medium;
+}
+
 img {
     max-width: 100%;
 }
